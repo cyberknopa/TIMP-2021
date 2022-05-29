@@ -4,16 +4,14 @@ Technologies and methods of programming, 2021
 ### Laboratory work 1a
 Develop a program that prohibits the creation, copying or renaming of files with specified names in the current (the one where it is located) directory (you can use file masks). The list of names or their templates should be stored in the template.tbl file as text. This file must be protected from deletion, unauthorized viewing and modification. When installing the program, you can provide for disabling it using the password stored in the first line of the template.tbl file in hashed form. The program must enable and disable the protection mode.
 
-[Code]()
-
-[Report]()
+[Code](https://github.com/cyberknopa/TIMP/blob/main/Lab1/1a.py)
 
 ### Laboratory work 1b
 Implement a script embedded in the HTML document code that implements copy-to-buffer protection (there is no way to select content, copy to the buffer as text or through a screenshot, etc.) and save all pages called from the current one. At the same time, printing these pages on paper should be available. Disabling the script should occur using a password stored in the body of the script in encrypted form.
 
-[Code]()
+[Code](https://github.com/cyberknopa/TIMP/tree/main/Lab1/1b)
 
-[Report]()
+[Report](https://github.com/cyberknopa/TIMP/blob/main/Lab1.pdf)
 
 ### Laboratory work 2
 Develop a simple program that requests the user's full name and enters this information into a text file. If such a full name is in the file, then issue a message about it. After entering the information, the program should shut down and inform the user about the limits of its use (temporary or number of launches). Upon reaching the launch limit, the program should offer the user to purchase its full version or uninstall itself. When re-installing the program, it must report its previous presence on this computer and check with past usage limits (i.e. do not allow them to exceed them in total).
@@ -26,9 +24,9 @@ a) Time-limited (make a time limit of no more than 3 minutes so that you can tra
 
 b) Start-limited (the limit on the number of launches should also be clear, for example – 4-5).
 
-[Code]()
+[Code](https://github.com/cyberknopa/TIMP/tree/main/Lab2)
 
-[Report]()
+[Report](https://github.com/cyberknopa/TIMP/blob/main/Lab2.pdf)
 
 ### Laboratory work 3a
 Runs on the local operating system.
@@ -69,9 +67,7 @@ Runs on the local operating system.
 
 - Computer configuration (memory and processor, at least) and OS version.
 
-[Code]()
-
-[Report]()
+[Code](https://github.com/cyberknopa/TIMP/blob/main/Lab3/3a.py)
 
 ### Laboratory work 3b
 It is executed on a local network (or virtual).
@@ -94,10 +90,11 @@ On the protection of laboratory work:
 
 3. A report (electronic) is provided with a description of the product, its functionality and instructions for use
 
-[Code]()
-[Report]()
+[Code](https://github.com/cyberknopa/TIMP/blob/main/Lab3/3b.php)
+
+[Report](https://github.com/cyberknopa/TIMP/blob/main/Lab3.pdf)
 
 ### Laboratory work 4
 Find the secret password in the archive
 
-[Report]()
+[Report](https://github.com/cyberknopa/TIMP/blob/main/Lab4.pdf)
