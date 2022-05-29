@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://code.s3.yandex.net/web-code/styles/lesson-5/vendor.css">
+</head>
+<body>
+  <button id="button">Поставьте 5</button>
+  <script src="script.js"></script>
+  <script src="https://code.s3.yandex.net/web-code/libs/p5.js"></script>
+  <script src="https://code.s3.yandex.net/web-code/scripts/lesson-5/vendor.js"></script>
+
+  <div style="width: 450px; position: absolute; top: 50%; left: 45%; margin: -125px 0 0 -125px;">
+  <label for="userPassword">Испытай удачу:</label>
+  <input onkeydown="return Keycheck(event.key)" placeholder="Password" type="password" id = "pas" name = "pas">
+  <input type="submit" value="испытать" id = "sub" onclick="Passcheck()">
+    <input type="submit" value="сломать" onclick="lock()"> </div>
+</body>
+</html>
