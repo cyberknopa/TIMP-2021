@@ -30,7 +30,7 @@ b) Start-limited (the limit on the number of launches should also be clear, for 
 
 [Report]()
 
-### Laboratory work 3
+### Laboratory work 3a
 Runs on the local operating system.
 
 1. Create a text document (sys.tat), which will contain "System information".
@@ -71,6 +71,30 @@ Runs on the local operating system.
 
 [Code]()
 
+[Report]()
+
+### Laboratory work 3b
+It is executed on a local network (or virtual).
+
+1. Create a script that remotely and imperceptibly for the user (the user opens some web page from the creator of the script) collects information about him, his computer and system (item 5 of the previous task) and writes it to some local network drive (accessible to the creator of the script) in a folder named IP or Mac addresses of the user machine.
+
+2. Think over access to this information (you can write to a remote disk).
+
+3. Test on 3-5 clients and get statistics about them.
+
+After the demonstration of the installer and the script, the sources and documentation (including extended instructions for use) should be archived and sent to the mail.
+
+The expansion of functionality and original solutions are welcome. It is recommended to run on a virtual machine.
+
+On the protection of laboratory work:
+
+1. The product code is shown with mandatory comments.
+
+2. The product is shown in action with its declared functionality.
+
+3. A report (electronic) is provided with a description of the product, its functionality and instructions for use
+
+[Code]()
 [Report]()
 
 ### Laboratory work 4
